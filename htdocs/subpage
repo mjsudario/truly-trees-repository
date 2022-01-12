@@ -1,0 +1,38 @@
+<!DOCTYPE Html>
+<html>
+	<head>	
+		<title> Truly Trees </title>
+		<meta charset="UTF-8">
+		<meta name = "author" content="Mark Joshua L. Sudario">
+		<meta name = "keywords" content="Tree">
+		<link rel = "icon" href="../images/1.png" type="image/gif">
+	</head>
+	
+	<body>
+		<nav>
+			<ul>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="#description">Pictures</a></li>
+				<li><a href="#footer">Contact Us</a></li>
+				<li><a href="#head1">About</a></li>
+			</ul>
+		</nav> 
+		<image id="header" src="../images/8.jpg">
+		<h1> Mahogany Project </h1>
+		
+		<h2 id="head1"> About our Mahogany Project </h2>
+			<p id="description"> We have planted over 1000 trees on an open lot near our main office. With the help of our staff and from volunteer citizens, 
+			we were able to make this project possible. These tree saplings will grow into matured trees after 25 years! </p>
+			
+		<image id="subpage" src="../images/9.jpg"> 
+		<image id="subpage2" src="../images/10.jpg">
+		<image id="subpage3" src="../images/11.jpg">
+		
+		<link rel="stylesheet" type="text/css" href="../css/subpage css.css">
+	    <footer id="footer">
+			<a href="https://www.facebook.com/teamtreesofficial/"><div class="sprite"> </div> </a>
+			<a href ="https://twitter.com/teamtreesofficl"> <div class="sprite1"> </div> </a>
+			<div class="sprite2"> </div>
+		</footer>
+	</body>
+</html>
