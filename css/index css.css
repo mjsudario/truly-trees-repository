@@ -186,6 +186,10 @@ input:focus {
 	transform: scale(0.5);
 	display: inline-block;
 }
+video {
+	margin: 20px;
+	border: solid black 2px;
+}
 footer {
 	margin-top: 100px;
 	background-color: #000000;
